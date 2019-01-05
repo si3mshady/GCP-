@@ -52,7 +52,7 @@ def begin():
 if __name__ == "__main__":  
     begin()
 
-#diy quick capi execrises on google cloud platform importing GMPLOT 12-5-19    Elliott Arnold / si3mshady 
+#diy quick api execrises on google cloud platform importing GMPLOT 12-5-19    Elliott Arnold / si3mshady 
 
        
 
